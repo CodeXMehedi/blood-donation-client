@@ -7,7 +7,7 @@ import { FaPhoneAlt } from 'react-icons/fa';
 const Navbar = () => {
   const links = <>
     <div className='text-lg'>
-      <NavLink >Home</NavLink>
+      <NavLink to='/'>Home</NavLink>
      
     </div>
   </>
